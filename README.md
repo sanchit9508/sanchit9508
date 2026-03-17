@@ -1,5 +1,5 @@
 ## Sanchit Mishra
-#### An aspiring Professional bringing ML notebooks to Life by ML and Data Engineering. Providing cloud based solution
+#### An aspiring professional bringing ML notebooks to Life by ML and Data Engineering. Providing cloud based solution
 
 
 <!--
