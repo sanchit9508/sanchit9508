@@ -1,10 +1,14 @@
 ## Sanchit Mishra
 #### An aspiring professional bringing ML notebooks to Life by ML and Data Engineering. Providing cloud based AI, Data and Analytical solutions
 
-Education
-> University of Birmingham, Birmingham - MSc - AI and ML <br>
-> Great Lakes Institute of Management,Chennai - PGP - Data Science Engineering <br>
-> VIT University - B.Tech Mechanical Engineering <br>
+### Professional Journey
+> Senior Data Scientist - TEKsystems Global Services, Bengaluru (May,2021 - July,2024) <br>
+> Design Engineer - TechScru Ltd (May,2019 - Jan,2020)
+
+### Education
+> University of Birmingham, Birmingham - MSc - AI and ML (2024-2025)<br>
+> Great Lakes Institute of Management,Chennai - PGP - Data Science Engineering (2020-2021)<br>
+> VIT University - B.Tech Mechanical Engineering (2014-2018) <br>
 
 
 ### Skills
