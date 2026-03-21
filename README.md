@@ -17,7 +17,7 @@ PGP - Data Science Engineering
 
 ### Techniques
 * LLM : LLMOps, RAG, FineTuning, Vector DBs<br>
-* ML : Forecasting, Anomaly detection, Classification<br>
+* ML : MLOps, Forecasting, Anomaly detection, Classification<br>
 * Analytics : EDA, Data Storytelling, Reporting, Dashbaord Development, ETL<br>
 * Cloud Engineering
 
