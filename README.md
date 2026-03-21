@@ -1,8 +1,10 @@
 ## Sanchit Mishra
 #### An aspiring professional bringing ML notebooks to Life by ML and Data Engineering. Providing cloud based AI, Data and Analytical solutions
 
-MSc- AI and ML University of Birmingham, Birmingham
-PGP - Data Science Engineering
+Education
+> University of Birmingham, Birmingham - MSc - AI and ML 
+> Great Lakes Institute of Management,Chennai - PGP - Data Science Engineering
+> VIT University - B.Tech Mechanical Engineering
 
 
 ### Skills
