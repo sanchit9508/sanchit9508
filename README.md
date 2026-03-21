@@ -13,9 +13,9 @@
 
 
 ### Techniques
-LLM : LLMOps, RAG, FineTuning, Vector Databases
-ML : Predictive Forecasting, Anomaly detection
-Analytics : EDA, Data Storytelling, Reporting, Dahsbaord Development
+* LLM : LLMOps, RAG, FineTuning, Vector DBs<br>
+* ML : Forecasting, Anomaly detection, Classification<br>
+* Analytics : EDA, Data Storytelling, Reporting, Dahsbaord Development, ETL<br>
 
 
 
