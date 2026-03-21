@@ -3,7 +3,7 @@
 
 ### Professional Journey
 > Senior Data Scientist - TEKsystems Global Services, Bengaluru (May,2021 - July,2024) <br>
-> Design Engineer - TechScru Ltd (May,2019 - Jan,2020)
+> Design Engineer - TechScru Ltd, Delhi (May,2019 - Jan,2020)
 
 ### Education
 > University of Birmingham, Birmingham - MSc - AI and ML (2024-2025)<br>
