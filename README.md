@@ -5,7 +5,7 @@
 ### Skills
 * AWS ML : Sagemaker<br>
 * GCP ML : Vertex AI<br>
-* Azure AI : Foundry ML, MLFLow<br>
+* Azure ML : Foundry ML, MLFLow<br>
 * Coding : Python, SQL, PySpark <br>
 * Database and Warehouse: MySQL, BigQuery, Snowflake, Redshift <br>
 * BI: Tableau, Looker <br>
@@ -15,8 +15,8 @@
 ### Techniques
 * LLM : LLMOps, RAG, FineTuning, Vector DBs<br>
 * ML : Forecasting, Anomaly detection, Classification<br>
-* Analytics : EDA, Data Storytelling, Reporting, Dahsbaord Development, ETL<br>
-
+* Analytics : EDA, Data Storytelling, Reporting, Dashbaord Development, ETL<br>
+* Cloud Engineering
 
 
 
