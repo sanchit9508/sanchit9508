@@ -1,6 +1,9 @@
 ## Sanchit Mishra
 #### An aspiring professional bringing ML notebooks to Life by ML and Data Engineering. Providing cloud based AI, Data and Analytical solutions
 
+MSc- AI and ML University of Birmingham, Birmingham
+PGP - Data Science Engineering
+
 
 ### Skills
 * AWS ML : Sagemaker<br>
