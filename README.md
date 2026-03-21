@@ -2,9 +2,9 @@
 #### An aspiring professional bringing ML notebooks to Life by ML and Data Engineering. Providing cloud based AI, Data and Analytical solutions
 
 Education
-> University of Birmingham, Birmingham - MSc - AI and ML 
-> Great Lakes Institute of Management,Chennai - PGP - Data Science Engineering
-> VIT University - B.Tech Mechanical Engineering
+> University of Birmingham, Birmingham - MSc - AI and ML <br>
+> Great Lakes Institute of Management,Chennai - PGP - Data Science Engineering <br>
+> VIT University - B.Tech Mechanical Engineering <br>
 
 
 ### Skills
