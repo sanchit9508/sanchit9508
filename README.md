@@ -12,8 +12,7 @@
 
 
 ### Skills
-* AWS ML : Sagemaker<br>
-* GCP ML : Vertex AI<br>
+* Cloud ML : AWS Sagemaker , GCP Vertex AI<br>
 * Azure ML : Foundry ML, MLFLow<br>
 * Coding : Python, SQL, PySpark <br>
 * Database and Warehouse: MySQL, BigQuery, Snowflake, Redshift <br>
