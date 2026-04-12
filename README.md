@@ -1,9 +1,22 @@
 ## Sanchit Mishra
-#### An aspiring professional bringing ML notebooks to Life by ML and Data Engineering. Providing cloud based AI, Data and Analytical solutions
+#### An aspiring professional bringing ML notebooks to Life by ML and Data Engineering. Transforming and preparing data to make it tell its own story. Providing cloud based AI, Data and Analytical solutions
 
 ### Professional Journey
-> Senior Data Scientist - TEKsystems Global Services, Bengaluru (May,2021 - July,2024) <br>
-> Design Engineer - TechScru Ltd, Delhi (May,2019 - Jan,2020)
+TEKsystems Global Services, Bengaluru (May,2021 - July,2024) <br>
+>  Senior Software Engineer (ML and Analytics) <br>
+   April 2023 - July 2024 <br>
+   Bengaluru <br>
+>  Software Engineer (ML and Analytics) <br>
+   April 2022 - April 2023 <br>
+   Bengaluru <br>
+>  Associate Engineer (ML & Analytics) <br>
+   October 2021 - April 2022  <br>
+   Bengaluru <br>
+>  Data Engineer trainee <br>
+   May 2021 - October 2021 <br>
+   Bengaluru, Karnataka, India <br>
+TechScru Ltd, Delhi <br>
+>  Design Engineer (May,2019 - Jan,2020) <br>
 
 ### Education
 > University of Birmingham, Birmingham - MSc - AI and ML (2024-2025)<br>
@@ -17,7 +30,7 @@
 * Coding : Python, SQL, PySpark <br>
 * Database and Warehouse: MySQL, BigQuery, Snowflake, Redshift <br>
 * BI: Tableau, Looker <br>
-* Deployment: AWS, GCP, Flask and FastAPI <br>
+* Deployment: AWS, GCP and Flask <br>
 
 
 ### Techniques
