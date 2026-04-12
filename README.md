@@ -3,7 +3,7 @@
 
 ### Professional Journey
 TEKsystems Global Services, Bengaluru (May,2021 - July,2024) <br>
->  Senior Software Engineer (ML and Analytics) <br>
+>  <b>Senior Software Engineer (ML and Analytics) <br>
    April 2023 - July 2024 <br>
    Bengaluru <br>
 >  Software Engineer (ML and Analytics) <br>
@@ -15,6 +15,7 @@ TEKsystems Global Services, Bengaluru (May,2021 - July,2024) <br>
 >  Data Engineer trainee <br>
    May 2021 - October 2021 <br>
    Bengaluru, Karnataka, India <br>
+   <br>
 TechScru Ltd, Delhi <br>
 >  Design Engineer (May,2019 - Jan,2020) <br>
 
