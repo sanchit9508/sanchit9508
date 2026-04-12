@@ -2,15 +2,15 @@
 #### An aspiring professional bringing ML notebooks to Life by ML and Data Engineering. Transforming and preparing data to make it tell its own story. Providing cloud based AI, Data and Analytical solutions
 
 ### Professional Journey
-** TEKsystems Global Services, Bengaluru (May,2021 - July,2024) ** <br>
->  * Senior Software Engineer (ML and Analytics) * <br>
-   * April 2023 - July 2024 *<br>
->  * Software Engineer (ML and Analytics) * <br>
-   * April 2022 - April 2023 * <br>
->  * Associate Engineer (ML & Analytics) * <br>
-   * October 2021 - April 2022 *  <br>
->  * Data Engineer trainee * <br>
-   * May 2021 - October 2021 *  <br>
+**TEKsystems Global Services, Bengaluru (May,2021 - July,2024)** <br>
+> *Senior Software Engineer (ML and Analytics)* <br>
+   *April 2023 - July 2024*<br>
+> *Software Engineer (ML and Analytics)* <br>
+   *April 2022 - April 2023* <br>
+> *Associate Engineer (ML & Analytics)* <br>
+   *October 2021 - April 2022*  <br>
+> *Data Engineer trainee* <br>
+   *May 2021 - October 2021*  <br>
    <br>
 TechScru Ltd, Delhi <br>
 >  Design Engineer (May,2019 - Jan,2020) <br>
