@@ -22,11 +22,11 @@
 
 
 ### Skills
-* Cloud ML : AWS Sagemaker , GCP Vertex AI<br>
-* Azure ML : Foundry ML, MLFLow<br>
+* Cloud ML : AWS Sagemaker , GCP Vertex AI, Azure ML and Foundry<br>
+* MLOps, Containerization & CI/CD : Kubeflow, MLFlow, Kubernetes, Docker, CI/CD, Git, Github Actions
 * Coding : Python, SQL, PySpark <br>
 * Database and Warehouse: MySQL, BigQuery, Snowflake, Redshift <br>
-* BI: Tableau, Looker <br>
+* BI: Tableau, Looker, Grafana <br>
 * Deployment: AWS, GCP and Flask <br>
 
 
