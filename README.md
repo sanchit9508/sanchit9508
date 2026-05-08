@@ -12,9 +12,8 @@
 > *Data Engineer trainee* <br>
    *May 2021 - October 2021*  <br>
    <br>
-TechScru Ltd, Delhi <br>
->  Design Engineer (May,2019 - Jan,2020) <br>
-> <br>
+**TechScru Ltd, Delhi (May,2019 - Jan,2020)** <br>
+>  *Design Engineer* <br>
 
 ### Education
 > University of Birmingham, Birmingham - MSc - AI and ML (2024-2025)<br>
