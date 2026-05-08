@@ -14,6 +14,7 @@
    <br>
 TechScru Ltd, Delhi <br>
 >  Design Engineer (May,2019 - Jan,2020) <br>
+> <br>
 
 ### Education
 > University of Birmingham, Birmingham - MSc - AI and ML (2024-2025)<br>
