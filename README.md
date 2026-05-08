@@ -11,6 +11,7 @@
    *October 2021 - April 2022*  <br>
 > *Data Engineer trainee* <br>
    *May 2021 - October 2021*  <br>
+   
 **TechScru Ltd, Delhi (May,2019 - Jan,2020)** <br>
 >  *Design Engineer* <br>
 
