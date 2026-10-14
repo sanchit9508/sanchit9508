@@ -26,7 +26,7 @@
 * MLOps, Containerization & CI/CD : Kubeflow, MLFlow, Kubernetes, Docker, CI/CD, Git, Github Actions
 * Coding : Python, SQL, PySpark <br>
 * Database and Warehouse: MySQL, BigQuery, Snowflake, Redshift <br>
-* BI: Tableau, Looker, Grafana <br>
+* BI and Monitoring: Tableau, Looker, Grafana <br>
 * Deployment: AWS, GCP and Flask <br>
 
 
